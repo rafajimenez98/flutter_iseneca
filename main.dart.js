@@ -84518,7 +84518,7 @@ A.WV.prototype={
 $1(a){return A.avF()},
 $S:170}
 A.JR.prototype={
-F(a){return A.asJ(new A.rq($.aBK(),"Pel\xedculas",A.AP(B.a3,null).ahW(B.Kl),!1,null),new A.a5Y(),null,t.j4)}}
+F(a){return A.asJ(new A.rq($.aBK(),"iSeneca",A.AP(B.a3,null).ahW(B.Kl),!1,null),new A.a5Y(),null,t.j4)}}
 A.a5Y.prototype={
 $1(a){return A.avF()},
 $S:170}
